@@ -1,0 +1,26 @@
+{
+  "name": "mtm-cli",
+  "version": "1.0.0",
+  "description": "\"# create-cli\"",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimagure44/create-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "javascript"
+  ],
+  "author": "Iván Lara Gómez, <ivan.lara.gomez.1977@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kimagure44/create-cli/issues"
+  },
+  "homepage": "https://github.com/kimagure44/create-cli#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "figlet": "^1.2.4",
+    "inquirer": "^7.0.0",
+  },
+  "bin": "./index.js"
+}
